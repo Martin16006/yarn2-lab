@@ -1,0 +1,15 @@
+com/opstty/job/Kind.class
+com/opstty/mapper/ArrondissementMapper.class
+com/opstty/mapper/SpeciesMapper.class
+com/opstty/job/Max.class
+com/opstty/job/Arrondissement.class
+com/opstty/mapper/MaxMapper.class
+com/opstty/job/Sort.class
+com/opstty/reducer/SpeciesReducer.class
+com/opstty/reducer/MaxReducer.class
+com/opstty/mapper/SortMapper.class
+com/opstty/reducer/KindReducer.class
+com/opstty/mapper/KindMapper.class
+com/opstty/reducer/SortReducer.class
+com/opstty/reducer/ArrondissementReducer.class
+com/opstty/job/Species.class
